@@ -9,6 +9,7 @@ Sum of digits of a number
 A zip method
 
 We also working in a virtual enviroment. You can check it out in the requirements file.
-
+To start, run the app as py app.py
+That will run the main function that checking all the tests.
 
 ENJOY!!
